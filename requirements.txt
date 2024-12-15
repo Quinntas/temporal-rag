@@ -1,0 +1,5 @@
+python-decouple
+langchain-core
+langchain-google-genai
+psycopg2-binary
+numpy
